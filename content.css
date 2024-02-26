@@ -67,8 +67,18 @@ nav ul li a {
     color: #333;
 }
 
+.c-aside img{
+    width: 100%;
+}
+
+.blog{
+    text-align: center;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
 .blog img{
-    width: fit-content;
+    width: 100%;
 }
 
 footer {
